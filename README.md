@@ -2,7 +2,7 @@
 
 I'm an applied mathematician who likes to play with machine learning and data!
 
-Currently I'm a research assistant at the [Automatic Control Laboratory](https://control.ee.ethz.ch/) of ETH Zürich!
+Currently I'm a PhD Candidate at the [Automatic Control Laboratory](https://control.ee.ethz.ch/) of ETH Zürich!
 I'm mostly working on data driven optimal control algorithms and reinforcement learning agents for smart cities!
 
 ![congested](https://github.com/AlessioRimoldi/AlessioRimoldi/assets/102817231/c2f32663-f683-42c5-b5ca-bcfb59789ce4)
